@@ -8,3 +8,5 @@ One-click fireworks: Click anywhere on the galaxy to trigger an explosion at you
 From zen to chaos: Let it rotate peacefully… or turn the sky into kinetic art.
 
 Best enjoyed in fullscreen on desktop. Tune the parameters, time your click, and watch the night scatter—then settle back into orbit, ready for the next burst.
+![Captura de pantalla 2025-09-20 011838](https://github.com/user-attachments/assets/10e9adda-e76e-4ec7-8313-5e0adc15d58a)
+![Captura de pantalla 2025-09-20 011834](https://github.com/user-attachments/assets/3ff1c910-3d0e-472a-9f7a-bc834013c281)
